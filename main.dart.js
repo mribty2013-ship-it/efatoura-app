@@ -101100,7 +101100,7 @@ r.push(A.bs(A.bO(!1,B.Y,n,n,!0,n,n,n,!0,n,n,B.aBf,n,n,n,n,n,new A.bfa(a),!1,n,n,
 r.push(B.U)
 r.push(A.bs(A.c6(B.P,A.a([A.eP(B.aAj,B.cfi,new A.bf1(this,a,b),n),A.eP(B.QS,B.ccb,new A.bf2(a,b),n)],o),B.aV,B.P,12,12),n,n,n,"Compte",n))
 r.push(B.it)
-r.push(A.el(A.h("eFatoura 1.0.0",n,n,n,n,A.A(a).ok.Q,n,n,n),n,n))
+r.push(A.el(A.h("eFatoura 1.1.0",n,n,n,n,A.A(a).ok.Q,n,n,n),n,n))
 return A.bZ(g,n,A.cL(A.a([new A.cz(A.N(r,B.L,B.r,B.t,B.v),760,n,n)],o),n,B.ck,n,!1),n,n)},
 GN(a,b,c,d){return this.aRJ(a,b,c,d)},
 aRJ(a,b,c,d){var s=0,r=A.o(t.H),q,p=2,o=[],n,m,l,k,j,i,h
